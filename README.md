@@ -49,7 +49,7 @@ cd AI-Text-Generator
    ```
 3. Start the React development server:
    ```bash
-   npm start
+   npm run dev
    ```
 
 ## 💻 Tech Stack
